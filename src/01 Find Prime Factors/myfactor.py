@@ -39,4 +39,4 @@ def getFactors(n):
 
 # print(listPrimes(100))
 
-print(listPrimes(630)
+print(listPrimes(630))
